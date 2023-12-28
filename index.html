@@ -27,6 +27,13 @@
     <!-- Custom styles for this template -->
     <link href="css/resume.min.css" rel="stylesheet">
 
+<script>
+      function showThankYouMessage() {
+          alert("Thank you for your submission! We appreciate your feedback.");
+          location.reload(); 
+      }
+
+    
   </head>
 
   <body id="page-top">
@@ -409,7 +416,7 @@
           
           <h6 class="section-title mb-5"></h6>
           <!-- contact form -->
-          <form action="https://formsubmit.co/el/870b1118ecf84d8f1382b13375356a54" class="contact-form col-md-10 col-lg-8 m-auto" method="Post">
+          <form onsubmit="showThankYouMessage(); return false;" class="contact-form col-md-10 col-lg-8 m-auto" method="Post">
               <div class="form-row">
                   <div class="form-group col-sm-6">
                       <input type="text" size="50" class="form-control" placeholder="Your Name" required>
