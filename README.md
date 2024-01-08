@@ -4,7 +4,7 @@ Welcome to my portfolio! I'm Prabhu s Dhulappanavar, a passionate Software Engin
 
 ## About Me
 
-I am a [Software Engineer based in Bangalore. My journey in IT field has equipped me with a diverse skill set, including:
+I am a Software Engineer based in Bangalore. My journey in IT field has equipped me with a diverse skill set, including:
 
 Programming Languages: C, Python (Beginner), Java (Beginner), PHP, JavaScript, HTML,CSS, Bootstrap and Spring Boot Framework.
 Intermediate with SQL.
