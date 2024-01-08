@@ -1,4 +1,4 @@
-# [Your Name]'s Portfolio
+#  Prabhu s Dhulappanavar's Portfolio
 
 Welcome to my portfolio! I'm Prabhu s Dhulappanavar, a passionate Software Engineer with a strong background in C, Python (Beginner), Java (Beginner), PHP, JavaScript, HTML,CSS, Bootstrap and Spring Boot framework. This README file provides an overview of my skills, projects, and how to get in touch with me.
 
