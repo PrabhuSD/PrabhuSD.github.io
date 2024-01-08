@@ -1089,7 +1089,7 @@ sectionh1 {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-    padding: 15px;
+    padding: 5px;
     color: #f4f6fd;
     font-size: 14px;
     position: fixed;
@@ -1099,6 +1099,7 @@ sectionh1 {
     z-index: 9999;
     background: #040b14;
 }
+
 
     #footer .copyright {
         text-align: center;
